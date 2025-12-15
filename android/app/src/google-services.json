@@ -1,0 +1,29 @@
+ {
+  "project_info": {
+    "project_number": "990478129770",
+    "project_id": "learning-asl-language",
+    "storage_bucket": "learning-asl-language.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990478129770:android:c5db6dd31a62fefcd58813",
+        "android_client_info": {
+          "package_name": "schemas.android.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4pJ0yBftTEnayzkj7Wi_3Jyl0nksZHSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
